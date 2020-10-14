@@ -17,3 +17,5 @@ from sklearn import preprocessing, svm
 #For Stock Data
 from iexfinance.stocks import Stock,get_historical_data
 #Tried this time another save
+#https://finance.yahoo.com/screener/predefined/aggressive_small_caps?offset=0&count=202
+#https://towardsdatascience.com/predicting-stock-prices-with-python-ec1d0c9bece1
